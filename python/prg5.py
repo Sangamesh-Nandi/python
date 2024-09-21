@@ -1,3 +1,4 @@
+#Python program to find a duplicate character in a string.
 from collections import Counter
 
 def find_duplicates(s):
