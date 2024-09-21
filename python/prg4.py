@@ -1,3 +1,4 @@
+#Python program to multiply two numbers.
 def multiply(a, b):
     return a * b
 
