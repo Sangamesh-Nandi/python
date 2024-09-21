@@ -1,3 +1,4 @@
+#Python program to print a reverse of an array.
 def reverse_array(arr):
     return arr[::-1]
 
